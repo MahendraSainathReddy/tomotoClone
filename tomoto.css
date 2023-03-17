@@ -3,6 +3,7 @@ body{
     background-color: #fff;
     color: #fff;
     font-family: "Open Sans", sans-serif;
+    overflow: scroll;
 }
 
 a{
