@@ -140,7 +140,7 @@ header{
     height: 70%;
     border-radius: 50%;
     overflow: hidden;
-    box-shadow: -1px 0px 10px 0px aqua;
+    box-shadow: 11px 11px 10px 0px rgb(79 79 79);
 }
 
 .foodImg img{
